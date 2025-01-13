@@ -4,4 +4,4 @@
 
 # COMMAND ----------
 
-print("Bienvenue au Module 3 - Infrastructure IA Appliquée aux Entreprises - Je suis Lev")
+print("Bienvenue au Module 3 - Infrastructure IA Appliquée aux Entreprises")
