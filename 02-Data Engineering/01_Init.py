@@ -7,8 +7,6 @@
 # COMMAND ----------
 
 # MAGIC %sql
-# MAGIC CREATE CATALOG IF NOT EXISTS levkiwi_lakehouse MANAGED LOCATION 'abfss://unity-catalog-storage@dbstoragexyfbclfd2i7hu.dfs.core.windows.net/744986589015891';
-# MAGIC
 # MAGIC DROP DATABASE IF EXISTS levkiwi_lakehouse.bronze CASCADE;
 # MAGIC DROP DATABASE IF EXISTS levkiwi_lakehouse.silver CASCADE; 
 # MAGIC DROP DATABASE IF EXISTS levkiwi_lakehouse.gold CASCADE;

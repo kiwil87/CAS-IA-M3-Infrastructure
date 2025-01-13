@@ -1,2 +1,7 @@
 # Databricks notebook source
-print("Bienvenue au Module 3 - Infrastructure IA Appliquée aux Entreprises")
+# MAGIC %md
+# MAGIC # Hello World in Python
+
+# COMMAND ----------
+
+print("Bienvenue au Module 3 - Infrastructure IA Appliquée aux Entreprises - Je suis Lev")
